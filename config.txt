@@ -1,2 +1,0 @@
-dbUrl="https://vssishxohraiydrnxoqw.supabase.co/storage/v1/object/public/versions/"
-dbIndexUrl="https://vssishxohraiydrnxoqw.supabase.co/storage/v1/object/public/versions/index.txt"
