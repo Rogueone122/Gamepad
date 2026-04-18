@@ -1,1 +1,5 @@
-vXX-YYY-ZZZ
+vA-XX-YYY-ZZZ.gpa
+A   -> uint8_t A = Alpha; B = Beta; P = Patch; R = Release
+XX  -> uint8_t Sur-Version
+YYY -> uint8_t Version
+ZZZ -> uint8_t Sous-Version
