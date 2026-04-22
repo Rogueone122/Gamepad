@@ -1,0 +1,4 @@
+vX-Y-Z.gpa
+X -> uint8_t (0-255) Version
+Y -> uint8_t (0-255) Sous-versions
+Z -> uint8_t (0-255) Patch
